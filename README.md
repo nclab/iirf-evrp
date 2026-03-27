@@ -1,4 +1,4 @@
-# IIRF-EVRP Data
+# IIRF-EVRP
 
 This repository contains experimental results for the paper:
 
@@ -76,6 +76,10 @@ Each file follows this structure:
 * `mean`: average performance
 * `std`: stability of the algorithm
 
----
+----------
 
+## Use
 
+Please cite
+
+> Lin, T.-H., & Chen, Y.-p. (2026). Solving Electric Vehicle Routing by Iterative Instance Refinement Framework. In <i>Proceedings of 2026 IEEE Congress on Evolutionary Computation (CEC 2026)</i>.
